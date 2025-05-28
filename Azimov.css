@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+}
+header{
+    background-color: white;
+    color: blue;
+    text-align: center;
+    height: 100px;
+}
+nav {
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: center;
+    margin: 25px;
+    gap: 20px;
+}
+nav a{
+    color: aquamarine;
+    text-decoration: none;
+    margin: 5px;
+}
+.quti{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 30px;
+}
+.quticha{
+background-color: white;
+padding: 10px;
+flex: 1;
+border-radius: 5px;
+box-shadow: 0px 2px 5px rgb(red, green, blue);
+min-width: 200px;
+}
+footer{
+    text-align: center;
+    background-color:blue;
+    color: black;
+    padding: 3px;
+}
+.quticha ih {
+    color: blueviolet;
+}
+img {
+    width: 220px;
+    border-radius: 8px;
+}
+div{
+    height: 300px;
+text-align: center;
+}
+div a{
+    text-decoration: none;
+    
+}
